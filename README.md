@@ -1,0 +1,3 @@
+# MSMApp
+
+dotnet restore
