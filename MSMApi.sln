@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSMApi", "MSMApi\MSMApi.csproj", "{47B14BF0-DD1D-4515-BE2B-0F9876E78A87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSMApi.Tests", "MSMApi.Tests\MSMApi.Tests.csproj", "{D0D45BB3-C781-40C9-A8D2-D6AB4A5AE971}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47B14BF0-DD1D-4515-BE2B-0F9876E78A87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47B14BF0-DD1D-4515-BE2B-0F9876E78A87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47B14BF0-DD1D-4515-BE2B-0F9876E78A87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47B14BF0-DD1D-4515-BE2B-0F9876E78A87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0D45BB3-C781-40C9-A8D2-D6AB4A5AE971}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0D45BB3-C781-40C9-A8D2-D6AB4A5AE971}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0D45BB3-C781-40C9-A8D2-D6AB4A5AE971}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0D45BB3-C781-40C9-A8D2-D6AB4A5AE971}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
